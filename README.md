@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christiangubana
 - 👀 I’m interested in web technology and tech in general
-- 🌱 I’m currently learning .NET
+- 🌱 I’m currently learning .NET & API design pattern
 - 💞️ I’m looking to collaborate on any FED proeject and microservices technology
 - 📫 How to reach me ... ping me a mail at christiangubana@gmail.com
 
