@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @christiangubana
 - ✨ I'm a software developer based in Cape Town / South Africa
-- 👀 I’m interested in web technology and tech in general
-- 🌱 I’m currently learning .NET Core & API design pattern
+- 👀 I’m currently workin on web technology focused on FED staff(JavaScript/React.Js)
+- 🌱 I’m interested in learning Python, .NET Core & API design pattern
 - 💞️ I’m looking to collaborate on any FED proejects or microservices technologies
+- 🤔 I’m looking for help with DevOps Development
 - 📫 How to reach me ... ping me a mail at christiangubana@gmail.com
 
 <!---
