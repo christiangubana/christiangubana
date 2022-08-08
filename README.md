@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @christiangubana
+- 👋 Hi, I’m christiangubana
 - ✨ I'm a software developer based in Cape Town / South Africa
 - 👀 I’m currently workin on web technology focused on FED staff(JavaScript/React.Js)
 - 🌱 I’m interested in learning Python, .NET Core & API design pattern
