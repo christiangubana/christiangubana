@@ -1,5 +1,6 @@
 - 👋 Hi, I’m christiangubana
 - ✨ I'm a software developer based in Cape Town / South Africa
+- ✨ I have an excellent programming skills with a passion for developing applications and improving existing ones
 - 👀 I’m currently workin on web technology focused on FED stuff(JavaScript/Node.Js/React.Js) & a few other cool react UI libraries
 - 🌱 I’m interested in learning Python, ML/AI & API design pattern
 - 💞️ I’m looking to collaborate on any FED proejects or microservices technologies
