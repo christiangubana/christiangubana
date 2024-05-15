@@ -1,5 +1,4 @@
-- 👋 Hi, I’m christiangubana, a software developer with 3+ years of professional experience in web development
-- ✨ I'm based in Cape Town / South Africa
+- 👋 Hi, I’m christiangubana, a software developer with 4+ years of professional experience in web development
 - 👌 I have excellent programming skills with a passion for developing applications and improving existing ones
 - 👀 I’m currently working on web technology focused on FED stuff(JavaScript/Node.Js/React.Js) & a few other cool react UI libraries
 - 🌱 I’m interested in learning Python, ML/AI & API design pattern
