@@ -1,14 +1,47 @@
-- 👋 Hi, I’m christiangubana, a software developer with strong professional experience in web development
-- 👌 I have excellent programming skills with a passion for developing applications and improving existing ones
-- 👀 I’m currently working on web technology focused on FED stuff(JavaScript/Node.Js/React.Js) & a few other cool react UI libraries
-- 🌱 I’m interested in learning Python, ML/AI & API design pattern
-- 💞️ I’m looking to collaborate on anything JavaScript-related, FED projects, or microservices technologies
-- 🤔 I’m currently learning Angular2/TypeScript since November 1st 2024
-- 📫 How to reach me ... ping me an email at christiangubana@gmail.com
+# Hi there 👋 I'm Christian Ngubana
 
-- 👉 This is my second GitHub account, I can't access the old due 2FA (https://github.com/christianraymond)
+I'm a Full-Stack Software Engineer with professional experience building scalable, user-focused web applications and improving existing digital products.
 
-<!---
-christiangubana/christiangubana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 What I Do
+
+* Build modern web applications using JavaScript/TypeScript ecosystems
+* Develop responsive and performant frontend experiences with React.js
+* Work with Node.js and backend services/APIs
+* Focus on clean architecture, maintainable code, and great user experiences
+
+## 💻 Tech Stack
+
+* JavaScript (ES6+)
+* TypeScript
+* React.js
+* Node.js
+* Angular
+* REST APIs
+* Tailwind CSS
+* Git & GitHub
+
+## 🌱 Currently Exploring
+
+* Python
+* Machine Learning & AI
+* Software Architecture & API Design Patterns
+* Cloud & Scalable Systems
+
+## 🤝 Open to Collaborate On
+
+* Full-stack JavaScript projects
+* Frontend engineering opportunities
+* SaaS platforms
+* Microservices & API-driven applications
+* Startup and product-focused projects
+
+## 📫 Reach Me
+
+* Email: [christiangubana@gmail.com](mailto:christiangubana@gmail.com)
+
+## ℹ️ Note
+
+This is my second GitHub account. My previous account became inaccessible due to a 2FA issue:
+
+👉 https://github.com/christianraymond
+
