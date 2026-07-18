@@ -1,4 +1,4 @@
-* 👋 Hi, I’m Christian Ngubana — a Full-Stack Software Engineer with professional experience building and maintaining modern web applications
+* 👋 Hi, I’m Christian Ngubana - a Full-Stack Software Engineer with professional experience building and maintaining modern web applications
 
 * 👌 Passionate about developing scalable applications, improving existing systems, and delivering clean, maintainable solutions
 
