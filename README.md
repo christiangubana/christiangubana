@@ -1,16 +1,25 @@
-* 👋 Hi, I’m Christian Ngubana - a Full-Stack Software Engineer with professional experience building and maintaining modern web applications
+# Hi, I'm Christian Ngubana
 
-* 👌 Passionate about developing scalable applications, improving existing systems, and delivering clean, maintainable solutions
+Software developer based in Cape Town (UTC+2, overlapping EU hours), building and shipping TypeScript web platforms for remote teams.
 
-* 👀 Currently working with JavaScript, TypeScript, React.js, Next.js, Vue.js, Node.js, NestJS, Express.js, GraphQL, Python, PostgreSQL, MongoDB, Redis, Tailwind CSS, Material UI, Sass, Docker, AWS, Git, GitHub, and CI/CD tools
+## What I do
+- Own features end-to-end: schema, API, UI, and production deployment
+- Multi-tenant SaaS, role-based access, SAML SSO, payment integrations, and LLM-based safeguards
 
-* 🌱 Currently exploring Python, AI/ML, cloud technologies, system design, and scalable backend architectures
+## Recent work
+- **Share Space Now, CampusLush, FatAllan**: led development of three production platforms used by thousands of users (2025 to 2026): [sharespacenow.com](https://www.sharespacenow.com) · [campuslush.com](https://www.campuslush.com) · [fatallan.com](https://www.fatallan.com)
+- **FloorTick**: multi-tenant compliance platform for food manufacturers (freelance)
+- **Seneca.js**: contributor to the open-source microservice framework (MIT)
 
-* 💞️ Open to collaborating on Full-Stack JavaScript/TypeScript projects, frontend engineering, APIs, microservices, and SaaS platforms
+## Stack
+TypeScript · Node.js · NestJS · React · Next.js · Angular · PostgreSQL · GraphQL · Docker · AWS (EC2) · GitHub Actions
 
-* 🤔 Currently learning Angular & advanced TypeScript concepts
+## Exploring
+LLM-powered automation and agent tooling
 
-* 📫 Reach me at: [christiangubana@gmail.com](mailto:christiangubana@gmail.com)
+## Open to
+Remote contract and full-time roles.
 
-* 👉 This is my second GitHub account — I lost access to my previous account due to a 2FA issue:
-  https://github.com/christianraymond
+📫 [email] · [LinkedIn](https://www.linkedin.com/in/christiangubana/) · [Portfolio](https://christiangubana.github.io/)
+
+Earlier work: [github.com/christianraymond](https://github.com/christianraymond) (I lost access to that account because of a 2FA issue).
