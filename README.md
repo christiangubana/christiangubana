@@ -7,7 +7,7 @@ Software developer based in Cape Town (UTC+2, overlapping EU hours), building an
 - Multi-tenant SaaS, role-based access, SAML SSO, payment integrations, and LLM-based safeguards
 
 ## Recent work
-- **Share Space Now, CampusLush, FatAllan**: led development of three production platforms used by thousands of users (2025 to 2026): [sharespacenow.com](https://www.sharespacenow.com) · [campuslush.com](https://www.campuslush.com) · [fatallan.com](https://www.fatallan.com)
+- **ShareSpaceNow, CampusLush, FatAllan**: led development of three production platforms used by thousands of users (2025 to 2026): [sharespacenow.com](https://www.sharespacenow.com) · [campuslush.com](https://www.campuslush.com) · [fatallan.com](https://www.fatallan.com)
 - **FloorTick**: multi-tenant compliance platform for food manufacturers (freelance)
 - **Seneca.js**: contributor to the open-source microservice framework (MIT)
 
