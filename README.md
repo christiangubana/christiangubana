@@ -12,7 +12,7 @@ Software developer based in Cape Town (UTC+2, overlapping EU hours), building an
 - **Seneca.js**: contributor to the open-source microservice framework (MIT)
 
 ## Stack
-TypeScript · Node.js · NestJS · React · Next.js · Angular · PostgreSQL · GraphQL · Docker · AWS (EC2) · GitHub Actions
+TypeScript · Node.js · NestJS · React · Next.js · Angular · Vue.js · Redis · PostgreSQL · GraphQL · Docker · AWS (EC2) · GitHub Actions
 
 ## Exploring
 LLM-powered automation and agent tooling
